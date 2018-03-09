@@ -7,7 +7,7 @@ content.   Look at the individual lesson repositories
 for issues on specific lessons.  Find out more about
 [contributing](CONTRIBUTING.md)
 
-Find out more about [AuthorCarpentry](authorcarpentry.github.io)
+Find out more about [AuthorCarpentry](https://authorcarpentry.github.io)
 
 All members of the AuthorCarpentry community agree to follow the [Code of
 Conduct](CONDUCT.md)
